@@ -1,0 +1,18 @@
+[
+  {
+    "platform": "youtube_shorts",
+    "enabled": true,
+    "max_duration_sec": 58,
+    "aspect_ratio": "9:16",
+    "videos_per_niche": 4,
+    "total_batch_size": 12
+  },
+  {
+    "platform": "tiktok",
+    "enabled": false,
+    "max_duration_sec": 58,
+    "aspect_ratio": "9:16",
+    "videos_per_niche": 4,
+    "total_batch_size": 12
+  }
+]
