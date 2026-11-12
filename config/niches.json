@@ -1,0 +1,53 @@
+{
+  "irl_streaming": {
+    "display_name": "IRL Streaming & Entertainment",
+    "channel_persona": "Social Dynamics Decoder",
+    "min_outlier_multiplier": 3.5,
+    "target_channels": [
+      "https://www.youtube.com/@IShowSpeed",
+      "https://www.youtube.com/@KaiCenat",
+      "https://www.youtube.com/@Fanum",
+      "https://www.youtube.com/@YourRAGE",
+      "https://www.youtube.com/@DukeDennisAMP",
+      "https://www.youtube.com/@AdinRoss",
+      "https://www.youtube.com/@Ludwig",
+      "https://www.youtube.com/@HasanAbi",
+      "https://www.youtube.com/@Amouranth",
+      "https://www.youtube.com/@xQcOW"
+    ]
+  },
+  "strategy_and_skill_challenges": {
+    "display_name": "Strategy, Puzzles & Skill Competitions",
+    "channel_persona": "Game Theory Analyst",
+    "min_outlier_multiplier": 3.5,
+    "target_channels": [
+      "https://www.youtube.com/@CrackingTheCryptic",
+      "https://www.youtube.com/@3blue1brown",
+      "https://www.youtube.com/@numberphile",
+      "https://www.youtube.com/@veritasium",
+      "https://www.youtube.com/@Vsauce",
+      "https://www.youtube.com/@standupmaths",
+      "https://www.youtube.com/@MinutePhysics",
+      "https://www.youtube.com/@MindYourDecisions",
+      "https://www.youtube.com/@TomScottGo",
+      "https://www.youtube.com/@TheGameTheorists"
+    ]
+  },
+  "business_podcasts": {
+    "display_name": "Business & Self-Improvement Podcasts",
+    "channel_persona": "Ruthless Fact-Checker",
+    "min_outlier_multiplier": 3.5,
+    "target_channels": [
+      "https://www.youtube.com/@thediaryofaceo",
+      "https://www.youtube.com/@hubermanlab",
+      "https://www.youtube.com/@GaryVee",
+      "https://www.youtube.com/@AlexHormozi",
+      "https://www.youtube.com/@aliabdaal",
+      "https://www.youtube.com/@LewisHowes",
+      "https://www.youtube.com/@JayShettyPodcast",
+      "https://www.youtube.com/@SimonSinek",
+      "https://www.youtube.com/@TimFerriss",
+      "https://www.youtube.com/@MyFirstMillionPod"
+    ]
+  }
+}
